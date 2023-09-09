@@ -22,3 +22,7 @@ http://localhost:3000/api/tasks  // POST
   "description": "HEllo My K",
   "teamId": 1
 }
+
+
+create Database with name react_database
+and the database structure is upload with name Untitled.sql
